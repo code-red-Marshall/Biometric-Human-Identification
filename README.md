@@ -5,7 +5,7 @@ An Electrocardiogram (ECG or EKG) is a tool used to measure and visualize the el
 The electrocardiographic waves are called P, Q, R, S, T, U (in that order) and they are connected to each other by an isoelectric line. Each of these waves represents different phases of the cardiac cycle.
 The QRS complex plays a crucial role in ECG signal analysis and classification due to its representation of critical cardiac activity and its utility in diagnosing various heart conditions.
 
-![ECG segment](https://github.com/code-red-Marshall/Biometric-Human-Identification/assets/82904501/4b6025cf-d9ef-48b5-b9fc-af00318a64c3)
+![OIP](https://github.com/code-red-Marshall/Biometric-Human-Identification/assets/82904501/a883064e-4a7b-4a36-b0ef-3f41f728a9a3)
 
 
 
