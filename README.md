@@ -5,21 +5,19 @@ This project involves the development of a machine learning model for patient cl
 ## Pan-Tompkins Plot
 ![Pan-Tompkins Algo](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/6646b850-d883-49d5-a87b-6878f463e95f)
 
-##Now detecting the R-peaks using the same algo
-![R detection Peaks](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/2f733196-91da-49f6-8644-295c8c50e588)
-
 ## Project Structure
 
 The project is divided into several sections. Below is a flow chart of the entire project: 
 
 ![Block diagram of PM](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/50591d2d-3dcc-40db-ab89-bc7a9d6e3987)
 
-
 1. **Importing Libraries**: This section involves importing necessary libraries such as numpy, pandas, tensorflow, keras, sklearn, and matplotlib.
 
 2. **Data Preprocessing**: In this section, the dataset is imported and preprocessed. The preprocessing steps include dropping unnecessary columns, label encoding, and splitting the dataset into training and testing sets.
 
 3. **Building the Model**: This section involves building the machine learning model using TensorFlow and Keras. The model is an ANN model with multiple dense layers.
+
+![model_plot](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/9626dbfb-b035-4de6-be22-99eb59b76123)
 
 4. **Training the Model**: In this section, the model is trained using the training data. The model's performance is evaluated using accuracy and loss metrics for both training and validation data.
 
