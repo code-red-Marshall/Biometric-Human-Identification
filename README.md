@@ -67,10 +67,6 @@ To use this project, follow these steps:
 
 Contributions to this project are welcome. Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details. 
-
 ## Contact
 
 For any queries or suggestions, please open an issue on GitHub.
