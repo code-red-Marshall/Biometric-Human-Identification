@@ -10,7 +10,7 @@ The project is divided into several sections:
 
 2. **Data Preprocessing**: In this section, the dataset is imported and preprocessed. The preprocessing steps include dropping unnecessary columns, label encoding, and splitting the dataset into training and testing sets.
 
-3. **Building the Model**: This section involves building the machine learning model using TensorFlow and Keras. The model is a sequential model with multiple dense layers.
+3. **Building the Model**: This section involves building the machine learning model using TensorFlow and Keras. The model is an ANN model with multiple dense layers.
 
 4. **Training the Model**: In this section, the model is trained using the training data. The model's performance is evaluated using accuracy and loss metrics for both training and validation data.
 
