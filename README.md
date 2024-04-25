@@ -1,5 +1,4 @@
-# # Biometric Human Identification for Patient Classification using ECG ![Machine Learning Icon](https://dev.to/github/10-standout-github-profile-readmes-h2o) ![Neural Networks Icon](https://github.com/tovacinni/cv-gfx-ml-icons) ![ECG Icon](https://github.com/Readme-Workflows/Readme-Icons)
-
+# # Biometric Human Identification for Patient Classification using ECG
 
 ##Electrocardiogram or ECG
 An Electrocardiogram (ECG or EKG) is a tool used to measure and visualize the electrical activity of the heart.
