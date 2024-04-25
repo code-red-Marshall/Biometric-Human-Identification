@@ -40,6 +40,11 @@ The project is divided into several sections. Below is a flow chart of the entir
 ##ConfusionMatrix
 ![CM](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/b27f5c80-029e-4232-8e4b-3f831cf363c5)
 
+##Evaluation_Metrics
+
+![Screenshot 2024-04-25 133520](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/bcd648f3-b31b-4c4c-a4cb-6c1a0a99b18d)
+
+
 
 ## Usage
 
