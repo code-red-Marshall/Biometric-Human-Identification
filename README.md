@@ -3,8 +3,10 @@
 This project involves the development of a machine learning model for patient classification. The model is built using Python, TensorFlow, and Keras. The dataset used in this project is a CSV file containing patient data that is being prepared from the public free source dataset named "PTB Diagnostic ECG Database". We have used Pan-Tompkins Algo for R peak Detection using the Moving Integrated Window.
 
 ## Pan-Tompkins Plot
-
 ![Pan-Tompkins Algo](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/6646b850-d883-49d5-a87b-6878f463e95f)
+
+##Now detecting the R-peaks using the same algo
+![R detection Peaks](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/2f733196-91da-49f6-8644-295c8c50e588)
 
 ## Project Structure
 
