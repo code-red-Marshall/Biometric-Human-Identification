@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 18 13:36:26 2022
-
-@author: user
-"""
-
 import matplotlib.pyplot as plt
 import wfdb
 import pandas as pd
