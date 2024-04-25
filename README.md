@@ -1,4 +1,4 @@
-# Biometric Human Identification for Patient Classification using ANN
+# Biometric Human Identification for Patient Classification using ANN 
 
 This project involves the development of a machine learning model for patient classification. The model is built using Python, TensorFlow, and Keras. The dataset used in this project is a CSV file containing patient data that is being prepared from the public free source dataset named "PTB Diagnostic ECG Database". We have used Pan-Tompkins Algo for R peak Detection using the Moving Integrated Window.
 
