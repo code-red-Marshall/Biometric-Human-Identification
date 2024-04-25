@@ -25,6 +25,7 @@ The project is divided into several sections. Below is a flow chart of the entir
 
 ![Figure_1](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/d996bf57-cdf2-4d46-a16a-9f6feafcd2a6)
 
+
 ##Model Loss:
 ![Figure_2](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/614e861c-064c-4f49-9a7a-737244ad453f)
 
