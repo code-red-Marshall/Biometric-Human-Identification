@@ -21,13 +21,22 @@ The project is divided into several sections. Below is a flow chart of the entir
 
 4. **Training the Model**: In this section, the model is trained using the training data. The model's performance is evaluated using accuracy and loss metrics for both training and validation data.
 
+##Model Accuracy :
+
+![Figure_1](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/d996bf57-cdf2-4d46-a16a-9f6feafcd2a6)
+
+##Model Loss:
+![Figure_2](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/614e861c-064c-4f49-9a7a-737244ad453f)
+
 5. **Evaluating the Model**: This section involves evaluating the model's performance using various metrics such as F1-score, precision, recall, and accuracy. The model's performance is also visualized using accuracy and loss plots.
 
 6. **Making Predictions**: In this section, the model is used to make predictions on the training data.
 
 7. **Model Performance Evaluation**: This section involves evaluating the model's performance using a confusion matrix, F1-score, precision, recall, and accuracy. The performance is also visualized using ROC curves.
 
-8. **Visualizing the Data**: This section involves visualizing the features in the dataset using scatter plots.
+##ConfusionMatrix
+![CM](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/b27f5c80-029e-4232-8e4b-3f831cf363c5)
+
 
 ## Usage
 
