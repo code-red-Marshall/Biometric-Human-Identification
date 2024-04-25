@@ -60,8 +60,9 @@ The project is divided into several sections. Below is a flow chart of the entir
 To use this project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary libraries mentioned in the 'Importing Libraries' section.
+2. Install the necessary libraries mentioned in the 'Importing Libraries' section in main.py.
 3. Run the Python script to train the model and evaluate its performance.
+4. The database.py is a demo to how the dataset has been organised. 
 
 ## Contributing
 
