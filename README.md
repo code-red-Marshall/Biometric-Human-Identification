@@ -1,4 +1,13 @@
-# Biometric Human Identification for Patient Classification using ANN 
+# Biometric Human Identification for Patient Classification using ECG 
+
+##Electrocardiogram or ECG
+An Electrocardiogram (ECG or EKG) is a tool used to measure and visualize the electrical activity of the heart.
+The electrocardiographic waves are called P, Q, R, S, T, U (in that order) and they are connected to each other by an isoelectric line. Each of these waves represents different phases of the cardiac cycle.
+The QRS complex plays a crucial role in ECG signal analysis and classification due to its representation of critical cardiac activity and its utility in diagnosing various heart conditions.
+
+![ECG segment](https://github.com/code-red-Marshall/Biometric-Human-Identification/assets/82904501/4b6025cf-d9ef-48b5-b9fc-af00318a64c3)
+
+
 
 This project involves the development of a machine learning model for patient classification. The model is built using Python, TensorFlow, and Keras. The dataset used in this project is a CSV file containing patient data that is being prepared from the public free source dataset named "PTB Diagnostic ECG Database". We have used Pan-Tompkins Algo for R peak Detection using the Moving Integrated Window.
 
