@@ -10,7 +10,10 @@ This project involves the development of a machine learning model for patient cl
 
 ## Project Structure
 
-The project is divided into several sections:
+The project is divided into several sections. Below is a flow chart of the entire project: 
+
+![Block diagram of PM](https://github.com/code-red-Marshall/Biometric-Human-Identification-/assets/82904501/50591d2d-3dcc-40db-ab89-bc7a9d6e3987)
+
 
 1. **Importing Libraries**: This section involves importing necessary libraries such as numpy, pandas, tensorflow, keras, sklearn, and matplotlib.
 
