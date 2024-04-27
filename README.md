@@ -1,6 +1,6 @@
-# # Biometric Human Identification for Patient Classification using ECG
+# Biometric Human Identification for Patient Classification using ECG
 
-##Electrocardiogram or ECG
+## Electrocardiogram or ECG
 An Electrocardiogram (ECG or EKG) is a tool used to measure and visualize the electrical activity of the heart.
 The electrocardiographic waves are called P, Q, R, S, T, U (in that order) and they are connected to each other by an isoelectric line. Each of these waves represents different phases of the cardiac cycle.
 The QRS complex plays a crucial role in ECG signal analysis and classification due to its representation of critical cardiac activity and its utility in diagnosing various heart conditions.
